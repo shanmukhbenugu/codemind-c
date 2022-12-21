@@ -5,4 +5,4 @@ int main(){
     for(i=a;i>0;i--){
         printf("%d ",i);
     }
-} 
+}
